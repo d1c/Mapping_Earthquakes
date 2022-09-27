@@ -9,7 +9,7 @@ This project uses JavaScript, Leaflet and D3 to display earthquake data availabl
 
 The map created for this project displays data in four different layers. All four layers are turned on by default which leads to a very busy screen. It is recommended that the user use the controls located in the top right-hand side of the window.
 
-![Map Controls](/Resources/map_controls.png)
+![Map Controls](/resources/Earthquake_Challenge_map_controls.png)
 
 ### Map Controls
 * Map Type - Only One Option can be Selected.
